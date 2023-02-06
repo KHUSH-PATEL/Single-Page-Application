@@ -888,7 +888,7 @@ about
 #about2 h5 {
   font-size: 26px;
   font-weight: 700;
-  color: #1e1e1e;
+  /* color: #1e1e1e; */
   line-height: 40px;
   margin-bottom: 25px;
   letter-spacing: 0.5px;
@@ -915,7 +915,7 @@ about
   padding-top: 12px;
   font-size: 21px;
   font-weight: 500;
-  color: #1e1e1e;
+  /* color: #1e1e1e; */
   margin-bottom: 20px;
 }
 

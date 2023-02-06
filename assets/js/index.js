@@ -18,8 +18,7 @@ function changePicture() {
 }
 window.onload = changePicture;
 
-function myFunction() {
+function changeBackGround() {
     var element = document.body;
     element.classList.toggle("dark-mode");
-    document.getElementById("p").style.color = "#00fff3;";
  }
