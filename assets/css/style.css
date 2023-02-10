@@ -1,5 +1,12 @@
 #welcome{
     background-image: url(../images/banner.png);
+}
+h1{
+    color: black;
+}
+#dakguruLogo{
+    height: 55px; 
+    margin-right: 330px;
 } 
 .flip-card {
     background-color: white;
@@ -48,5 +55,11 @@
     color: white;
 }
 .dark-mode h6{
+    color: #00ffe7;
+}
+.dark-mode h1{
+    color: white;
+}
+.dark-mode span{
     color: #00ffe7;
 }
